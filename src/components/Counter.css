@@ -1,0 +1,25 @@
+.counter-box {
+  border: 2px solid #ccc;
+  padding: 20px;
+  width: 250px;
+  border-radius: 12px;
+  margin: 10px;
+  text-align: center;
+  background-color: #f0f9ff;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+.btns button {
+  font-size: 20px;
+  padding: 10px 15px;
+  margin: 5px;
+  cursor: pointer;
+  border: none;
+  border-radius: 8px;
+  background-color: #007bff;
+  color: white;
+}
+
+.btns button:hover {
+  background-color: #0056b3;
+}
